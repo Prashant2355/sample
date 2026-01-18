@@ -6,15 +6,10 @@ A simple web-based **Student Enrollment Form** that performs **CRUD** operations
 ## 📌 Project Overview
 
 This project allows users to:
-
     - Enter student details
-
     - Save new student records
-
     - Retrieve existing student data
-
     - Update stored student information
-
     - Reset form inputs
 
 All data is stored and managed through **JsonPowerDB (JPDB)**.
