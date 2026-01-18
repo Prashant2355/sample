@@ -23,15 +23,15 @@ All data is stored and managed through **JsonPowerDB (JPDB)**.
 
 ## 🛠️ Features
 
-    - Form input validation
+- Form input validation
 
-    - Save and update student records
+- Save and update student records
 
-    - Fetch student details by Roll Number
+- Fetch student details by Roll Number
 
-    - Reset form data
+- Reset form data
 
-    - Real-time database interaction with JsonPowerDB
+- Real-time database interaction with JsonPowerDB
 
 ----------------------------------------------------------------------------------------------------
 
@@ -41,13 +41,13 @@ The application connects to **JsonPowerDB**, a high-performance real-time databa
 
 The index.js file handles:
 
-    - Connecting to JsonPowerDB using API calls
+- Connecting to JsonPowerDB using API calls
 
-    - Validating user inputs
+- Validating user inputs
 
-    - Sending data for saving or updating records
+- Sending data for saving or updating records
 
-    - Handling database responses and managing form behavior
+- Handling database responses and managing form behavior
 
 ----------------------------------------------------------------------------------------------------
 
@@ -76,7 +76,7 @@ Student Enrollment Form/
 
 1. Clone the repository:
 
-    - git clone https://github.com/Prashant2355/sample
+- git clone https://github.com/Prashant2355/sample
 
 
 2. Open index.html in your browser.
@@ -91,11 +91,11 @@ Student Enrollment Form/
 
 This project uses **JsonPowerDB APIs** for:
 
-    - Adding student records
+- Adding student records
 
-    - Updating existing records
+- Updating existing records
 
-    - Fetching student information by Roll Number
+- Fetching student information by Roll Number
 
 You can configure your own database connection inside **index.js**.
 
@@ -105,12 +105,12 @@ You can configure your own database connection inside **index.js**.
 
 Through this project, you demonstrate:
 
-  - Practical understanding of **DBMS integration**
+- Practical understanding of **DBMS integration**
 
-  - Working with **JsonPowerDB APIs**
+- Working with **JsonPowerDB APIs**
 
-  - Frontend and backend data interaction
+- Frontend and backend data interaction
 
-  - Form validation and client-side scripting
+- Form validation and client-side scripting
 
 ----------------------------------------------------------------------------------------------------
